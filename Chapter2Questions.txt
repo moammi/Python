@@ -1,0 +1,31 @@
+Chapter 2 
+1. True (1) False (0)
+2. and or (binary) not
+3. 	T and F = F	T or F = True	not True = False
+	T and T = T	F or F = False	not False = True
+	F and F = F	T or T = True	not not True = True
+4. 	False and False = False
+	not False = True
+	F or F = F
+	not ((F)) = True
+	True and False = False
+	True or False = True
+5. 	== / != / < / > / <= / >=
+6.	equal to: == assignment: =
+7. 	/
+8.	block 1: print('eggs')
+	block 2: print('bacon')
+	block 3: print('ham')
+9. 	
+spam = int(input('1 or 2'))
+if spam == 1:
+    print('Hello')
+elif spam ==2:
+    print('Howdy')
+else:
+    print ('Greetings')
+10. ctrl + c
+11. 	break is used when you want to exit the while loop
+	continue is used when you want to go back to the beginning of the while loop
+12. 10 , between 0 and 10, between 0 and 10 with increments of 1
+13.
