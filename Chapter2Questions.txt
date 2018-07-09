@@ -28,4 +28,16 @@ else:
 11. 	break is used when you want to exit the while loop
 	continue is used when you want to go back to the beginning of the while loop
 12. 10 , between 0 and 10, between 0 and 10 with increments of 1
-13.
+13. #for loop
+print('The numbers 1 to 10:')
+for i in range(1, 11):
+    print (''+str(i)+'')
+
+#while loop
+print('The numbers 1 to 10:')
+i=0
+while i < 11:
+    print(''+str(i)+'')
+    i= i + 1
+
+14. 

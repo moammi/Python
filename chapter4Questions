@@ -1,0 +1,12 @@
+Chapter 4 Questions
+
+1. A list value
+2. spam[2] = 'hello'
+3. error, divide by 11 gives float
+4. last on the list 
+5. ['a', 'b']
+6. finds the first 'cat' in the list > 1
+7. adds the integer 99 to the end of the list > [3.14, ... 99]
+8. removes the first 'cat' in the list 
+9. 
+
